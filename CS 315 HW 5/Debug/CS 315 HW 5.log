@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\chris\documents\visual studio 2015\projects\cs 315 hw 5\cs 315 hw 5\main.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\cs 315 hw 5\cs 315 hw 5\main.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\cs 315 hw 5\cs 315 hw 5\main.cpp(60): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\chris\documents\visual studio 2015\projects\cs 315 hw 5\cs 315 hw 5\main.cpp(67): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+  CS 315 HW 5.vcxproj -> C:\Users\chris\Documents\Visual Studio 2015\Projects\CS 315 HW 5\Debug\CS 315 HW 5.exe
+  CS 315 HW 5.vcxproj -> C:\Users\chris\Documents\Visual Studio 2015\Projects\CS 315 HW 5\Debug\CS 315 HW 5.pdb (Partial PDB)
